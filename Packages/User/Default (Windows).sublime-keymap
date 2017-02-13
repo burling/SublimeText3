@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
+	{ "keys": ["alt+h"], "command": "dash_doc"},
+]

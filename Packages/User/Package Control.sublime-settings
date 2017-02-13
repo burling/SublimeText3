@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "http://dev-proxy.oa.com:8080",
+	"https_proxy": "https://dev-proxy.oa.com:8080",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"CTags",
+		"DashDoc",
+		"Indent XML",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck"
+	]
+}
